@@ -117,6 +117,12 @@ fun ShoppinglistPreview() {
     Shoppinglist()
 }
 
+fun fancycode() {
+    var number = 7
+
+}
+
+
 // En ändring på webb2
 // mer ändring
 // Ändring BBBBBBBBBB
