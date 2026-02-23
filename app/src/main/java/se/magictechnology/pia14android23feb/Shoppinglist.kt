@@ -122,6 +122,9 @@ fun fancycode() {
 
 }
 
+fun nicefunction() {
+    var goodthings = true
+}
 
 // En ändring på webb2
 // mer ändring
