@@ -135,6 +135,7 @@ fun billsfunktion() {
     var fruit = "banana"
     var edit1 = true
     var edit2 = true
+    var edit3 = true
 }
 
 // En ändring på webb2
