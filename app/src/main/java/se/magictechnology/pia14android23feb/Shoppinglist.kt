@@ -118,3 +118,4 @@ fun ShoppinglistPreview() {
 }
 
 // En ändring
+// mer ändring
