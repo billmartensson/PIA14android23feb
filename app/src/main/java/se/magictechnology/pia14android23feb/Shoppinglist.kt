@@ -120,3 +120,4 @@ fun ShoppinglistPreview() {
 // En ändring på webb2
 // mer ändring
 // Ändring BBBBBBBBBB
+// Ändring AAAAAAAAAAA
