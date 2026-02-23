@@ -133,6 +133,7 @@ fun nicefunction() {
 
 fun billsfunktion() {
     var fruit = "banana"
+    var edit1 = true
 }
 
 // En ändring på webb2
