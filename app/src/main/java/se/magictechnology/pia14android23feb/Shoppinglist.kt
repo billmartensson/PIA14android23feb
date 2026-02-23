@@ -117,6 +117,6 @@ fun ShoppinglistPreview() {
     Shoppinglist()
 }
 
-// En ändring på webb
+// En ändring på webb2
 // mer ändring
 // Ändring tre
