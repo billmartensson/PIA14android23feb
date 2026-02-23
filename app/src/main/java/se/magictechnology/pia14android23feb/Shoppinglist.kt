@@ -117,5 +117,5 @@ fun ShoppinglistPreview() {
     Shoppinglist()
 }
 
-// En ändring
+// En ändring på webb
 // mer ändring
