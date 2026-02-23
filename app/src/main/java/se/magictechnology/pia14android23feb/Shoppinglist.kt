@@ -134,6 +134,7 @@ fun nicefunction() {
 fun billsfunktion() {
     var fruit = "banana"
     var edit1 = true
+    var edit2 = true
 }
 
 // En ändring på webb2
