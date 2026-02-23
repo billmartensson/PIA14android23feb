@@ -131,6 +131,10 @@ fun nicefunction() {
     var moregood = true
 }
 
+fun billsfunktion() {
+    var fruit = "banana"
+}
+
 // En ändring på webb2
 // mer ändring
 // Ändring BBBBBBBBBB
